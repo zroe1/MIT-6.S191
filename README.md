@@ -4,6 +4,15 @@ This respository contains my lab work and my final project for the MIT Introduct
 
 MIT repository for the class: https://github.com/aamini/introtodeeplearning/tree/master
 
+## Labs
+
+My solutions are in the lab folder. They also include corrections to errors in the original code provided by MIT. Discriptions of the labs can be found below:
+
+<ul>
+  <li><b>Lab 1 (part 1): </b>An introduction to simple concepts in tensorflow.</li>
+  <li><b>Lab 1 (part 2): </b>Music generation with a recurrent neural network. My favorite song I was able to generate with one of these models can be found in the labs folder.</li>
+</ul>
+
 ## License Information
 
 All code in the labs folder is based off of assignments provided in the MIT Introduction to Deep Learning Github repository, where you can find alternative assignment solutions: https://github.com/aamini/introtodeeplearning/tree/master
