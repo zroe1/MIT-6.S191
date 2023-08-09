@@ -14,7 +14,10 @@ My solutions are in the lab folder. They also include corrections to errors in t
   <li><b>Lab 2 (part 1): </b>MNIST Digit Classification</li>
   <li><b>Lab 2 (part 2): </b>Diagnosing bias in facial detection systems</li>
   <li><b>Lab 3 (part 1): </b>An introduction capsa as a way to evaluate uncertainty and bias.</li>
+  <li><b>Lab 3 (part 2): </b>This lab couldn't be completed because the dependency capsa is no longer availible to install.</li>
 </ul>
+
+## Final project
 
 ## License Information
 
