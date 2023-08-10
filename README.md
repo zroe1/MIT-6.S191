@@ -1,6 +1,6 @@
 # MIT 6.S191 (Introduction to Deep Learning)
 
-This respository contains my lab work and my final project for the MIT Introduction to Deep Learning course (MIT 6.S191). I took this class summer 2023 to self study AI and neural networks. My labwork solutions are in the labs folder. Offical solutions can be found in the MIT repository for this class linked below. My final paper is saved as (add) and visual notes I created for this course can be found in the resources folder.
+This respository contains my lab work and my final project for the MIT Introduction to Deep Learning course (MIT 6.S191). I took this class summer 2023 to self study AI and neural networks. My labwork solutions are in the labs folder. Offical solutions can be found in the MIT repository for this class linked below. My final paper is saved as FINAL_PROJECT.pdf.
 
 MIT repository for the class: https://github.com/aamini/introtodeeplearning/tree/master
 
@@ -18,6 +18,8 @@ My solutions are in the lab folder. They also include corrections to errors in t
 </ul>
 
 ## Final project
+
+The final project for this class was to create a proposal for a new idea in AI. The original format of the class was 3 minute live presentations but I decided to write a short paper instead. My work is attached as FINAL_PROJECT.pdf in this repository.
 
 ## License Information
 
